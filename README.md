@@ -57,6 +57,6 @@ bgClient.transaction('tx_hash')
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](link-to-github-issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/blockgumdev/blockgum-js/issues) if you want to contribute.
 
 ---
